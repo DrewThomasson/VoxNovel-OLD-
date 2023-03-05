@@ -1,0 +1,23 @@
+Needed Files to start:
+Output.html -this is the html file that you get as one of the booknlp output files
+
+
+Order: -Depricated
+
+HTML_text_Extraction.py. —> RemoveUnwantedFromHTML--->Extract_wanted_text_from_txt.py—>change_speaker_key_placement.py
+
+
+
+
+
+Updated Order:
+
+RemoveUnwantedFromHTML. —> HTML_text_Extraction.py--->Extract_wanted_text_from_txt.py—>change_speaker_key_placement.py
+
+
+#run order idk if thisll work lol
+#.... idk lol
+!python RemoveUnwantedFromHTML.py
+!python HTML_text_Extraction.py
+!python Extract_wanted_text_from_txt.py
+!python change_speaker_key_placment.py
