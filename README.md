@@ -14,3 +14,7 @@ A working google colab demo can be found at this link: https://colab.research.go
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A working google colab demo to extract the metadata from the book needed to assign character values correctly can be found here:https://colab.research.google.com/drive/1a9hbVcM4U13kVP6Op-FyMmkXAvDFLiks?usp=sharing
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Here is a link to the Officail Discord server if anyone wants to give feadback or make suggestions 
+https://discord.gg/KbCzxhYP
