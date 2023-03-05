@@ -1,0 +1,41 @@
+Today was a nice day for the people in this demo story for I am the Narrator.
+[Bob]
+"I am male char/voice 1"
+[Bob]
+"I am male char/voice 1"
+[Jim]
+"I am male char/voice 2"
+[Jim]
+"I am male char/voice 2"
+[Steve]
+"I am male char/voice 3"
+[Steve]
+"I am male char/voice 3"
+[Sally]
+"I am female char/voice 1"
+[Sally]
+"I am female char/voice 1"
+[Sarah]
+"I am female char/voice 2"
+[Sarah]
+"I am female char/voice 2"
+[Jessica]
+"I am female char/voice 3"
+[Jessica]
+"I am female char/voice 3"
+[fork]
+"I am unknown char/voice 1"
+[fork]
+"I am unknown char/voice 1"
+[knife]
+"I am unknown char/voice 2"
+[knife]
+"I am unknown char/voice 2"
+[spoon]
+"I am unknown char/voice 3"
+[spoon]
+"I am unknown char/voice 3"
+And once again I am the narrator, yes yes, very nice.
+
+
+
