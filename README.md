@@ -4,7 +4,7 @@ This is a on going project of mine that generates audiobooks from a book input a
 The programs used are booknlp and Tortoise TTS
 
 Steps in order to run:
-1. Use bookNLP to extract the needed html metadata from your book.txt file. A link to my google colab for BookNLP_EXTRACT_DEMO is below:
+1. Use bookNLP to extract the needed html metadata from your desired book/text file in a txt format. A link to my google colab for BookNLP_EXTRACT_DEMO is below:
 
 2. Run that output "TTS_Input" file  it in the NoxNovel google colab Demo found below:
 
