@@ -1,0 +1,138 @@
+Named characters
+79 Paul (20)  
+28 Pauls (8)  
+27 Jessica (14)/the Lady Jessica (1)/The Lady Jessica (1)  
+14 Reverend Mother (3)/the Reverend Mother (3)/The Reverend Mother Gaius Helen Mohiam (1)  
+6 Jessicas (2)  
+3 Hawat (2)/Thufir Hawat (1)  
+2 The Atreides (1)  
+[NARRATOR]
+2 
+2 the Harkonnens (2)  
+2 the Duke Leto (2)  
+Major entities (proper, common)FAC1 Castle Caladan 1 the House of Atreides in fief 1 the Imperial Regate 1 home 1 Pauls room 1 an Arrakeen cavern 1 a cathedral 1 the castle 1 the Bene Gesserit school 1 my morning room 1 the green farmlands of the Atreides family holding 1 the Atreides family holding 1 anothers station GPE10 Arrakis 3 Dune 1 Caladan 1 Atreides 1 Fremen 1 Arrakis--Dune--Desert Planet 1 Bene Gesserit-with-1 there 1 This world of Castle Caladan 1 Castle Caladan 1 the-Sight LOC3 Desert Planet 1 Kwisatz Haderach 1 the Landsraad 1 Mount Syubi 2 the planet/The planet 2 the river 1 a place so different from Caladan 1 the desert edge 1 the overload regions 1 the curving southern bend of the river PER20 Paul 16 Jessica/the Lady Jessica/The Lady Jessica 8 Pauls 7 Reverend Mother/the Reverend Mother/The Reverend Mother Gaius Helen Mohiam 3 Hawat/Thufir Hawat 2 the Harkonnens 2 the Duke Leto 2 Jessicas 1 The Atreides 1 the Kwisatz Haderach 11 the old woman/The old woman 7 his mother 2 a gom jabbar 2 the Reverend Mother 1 an old crone 1 the mother of the boy 1 the boy 1 the Atreides family 1 the awakened boy 1 Pauls mother ORG1 CHOAM Company 1 the Great Houses of the Landsraad 1 that abominable Spacing Guild VEHText
+In the week before their departure to Arrakis, when all the final scurrying about had reached a nearly unbearable frenzy, an old crone came to visit the mother of the boy, Paul. It was a warm night at Castle Caladan, and the ancient pile of stone that had served the Atreides family as home for twenty-six generations bore that cooled-sweat feeling it acquired before a change in the weather. The old woman was let in by the side door down the vaulted passage by Pauls room and she was allowed a moment to peer in at him where he lay in his bed. By the half-light of a suspensor lamp, dimmed and hanging near the floor, the awakened boy could see a bulky female shape at his door, standing one step ahead of his mother. The old woman was a witch shadow--hair like matted spiderwebs, hooded round darkness of features, eyes like glittering jewels.
+[34-the old woman]
+"Is he not small for his age, Jessica?"
+the old woman asked. Her voice wheezed and twanged like an untuned baliset. Pauls mother answered in her soft contralto :
+[40-pauls mother]
+"The Atreides are known to start late getting their growth, Your Reverence."
+[34-the old woman]
+"So I ve heard, so I ve heard,"
+wheezed the old woman.
+[34-the old woman]
+"Yet he s already fifteen."
+[40-pauls mother]
+"Yes, Your Reverence."
+[34-the old woman]
+"He s awake and listening to us,"
+said the old woman.
+[34-the old woman]
+"Sly little rascal."
+She chuckled.
+[34-the old woman]
+"But royalty has need of slyness. And if he s really the Kwisatz Haderach...well..."
+Within the shadows of his bed, Paul held his eyes open to mere slits. Two bird-bright ovals--the eyes of the old woman--seemed to expand and glow as they stared into his.
+[34-the old woman]
+"Sleep well, you sly little rascal,"
+said the old woman.
+[34-the old woman]
+"Tomorrow you ll need all your faculties to meet my gom jabbar."
+And she was gone, pushing his mother out, closing the door with a solid thump. Paul lay awake wondering : What s a gom jabbar? In all the upset during this time of change, the old woman was the strangest thing he had seen. Your Reverence. And the way she called his mother Jessica like a common serving wench instead of what she was--a Bene Gesserit Lady, a dukes concubine and mother of the ducal heir. Is a gom jabbar something of Arrakis I must know before we go there? he wondered. He mouthed her strange words : Gom jabbar... Kwisatz Haderach. There had been so many things to learn. Arrakis would be a place so different from Caladan that Pauls mind whirled with the new knowledge. Arrakis--Dune--Desert Planet. Thufir Hawat, his fathers Master of Assassins, had explained it : their mortal enemies, the Harkonnens, had been on Arrakis eighty years, holding the planet in quasi-fief under a CHOAM Company contract to mine the geriatric spice, melange. Now the Harkonnens were leaving to be replaced by the House of Atreides in fief-complete--an apparent victory for the Duke Leto. Yet, Hawat had said, this appearance contained the deadliest peril, for the Duke Leto was popular among the Great Houses of the Landsraad.
+[21-hawat]
+"A popular man arouses the jealousy of the powerful,"
+Hawat had said. Arrakis--Dune--Desert Planet. Paul fell asleep to dream of an Arrakeen cavern, silent people all around him moving in the dim light of glowglobes. It was solemn there and like a cathedral as he listened to a faint sound--the drip-drip-drip of water. Even while he remained in the dream, Paul knew he would remember it upon awakening. He always remembered the dreams that were predictions. The dream faded. Paul awoke to feel himself in the warmth of his bed--thinking...thinking. This world of Castle Caladan, without play or companions his own age, perhaps did not deserve sadness in farewell. Dr. Yueh, his teacher, had hinted that the faufreluches class system was not rigidly guarded on Arrakis. The planet sheltered people who lived at the desert edge without caid or bashar to command them : will-o-the-sand people called Fremen, marked down on no census of the Imperial Regate. Arrakis--Dune--Desert Planet. Paul sensed his own tensions, decided to practice one of the mind-body lessons his mother had taught him. Three quick breaths triggered the responses : he fell into the floating awareness...focusing the consciousness...aortal dilation...avoiding the unfocused mechanism of consciousness...to be conscious by choice...blood enriched and swift-flooding the overload regions...one does not obtain food-safety-freedom by instinct alone...animal consciousness does not extend beyond the given moment nor into the idea that its victims may become extinct...the animal destroys and does not produce...animal pleasures remain close to sensation levels and avoid the perceptual...the human requires a background grid through which to see his universe...focused consciousness by choice, this forms your grid...bodily integrity follows nerve-blood flow according to the deepest awareness of cell needs...all things / cells / beings are impermanent...strive for flow-permanence within... Over and over and over within Pauls floating awareness the lesson rolled. When dawn touched Pauls window sill with yellow light, he sensed it through closed eyelids, opened them, hearing then the renewed bustle and hurry in the castle, seeing the familiar patterned beams of his bedroom ceiling. The hall door opened and his mother peered in, hair like shaded bronze held with a black ribbon at the crown, her oval face emotionless and green eyes staring solemnly.
+[37-his mother]
+"You re awake,"
+she said.
+[37-his mother]
+"Did you sleep well?"
+[16-paul]
+"Yes."
+He studied the tallness of her, saw the hint of tension in her shoulders as she chose clothing for him from the closet racks. Another might have missed the tension, but she had trained him in the Bene Gesserit Way--in the minutiae of observation. She turned, holding a semiformal jacket for him. It carried the red Atreides hawk crest above the breast pocket.
+[37-his mother]
+"Hurry and dress,"
+she said.
+[37-his mother]
+"Reverend Mother is waiting."
+[16-paul]
+"I dreamed of her once,"
+Paul said.
+[16-paul]
+"Who is she?"
+[37-his mother]
+"She was my teacher at the Bene Gesserit school. Now, she s the Emperors Truthsayer. And Paul..."
+She hesitated.
+[37-his mother]
+"You must tell her about your dreams."
+[16-paul]
+"I will. Is she the reason we got Arrakis?"
+[18-jessica]
+"We did not get Arrakis."
+Jessica flicked dust from a pair of trousers, hung them with the jacket on the dressing stand beside his bed.
+[18-jessica]
+"Do nt keep Reverend Mother waiting."
+Paul sat up, hugged his knees.
+[37-his mother]
+"What s a gom jabbar?"
+Again, the training she had given him exposed her almost invisible hesitation, a nervous betrayal he felt as fear. Jessica crossed to the window, flung wide the draperies, stared across the river orchards toward Mount Syubi.
+[37-his mother]
+"You ll learn about...the gom jabbar soon enough,"
+she said. He heard the fear in her voice and wondered at it. Jessica spoke without turning.
+[18-jessica]
+"Reverend Mother is waiting in my morning room. Please hurry."
+The Reverend Mother Gaius Helen Mohiam sat in a tapestried chair watching mother and son approach. Windows on each side of her overlooked the curving southern bend of the river and the green farmlands of the Atreides family holding, but the Reverend Mother ignored the view. She was feeling her age this morning, more than a little petulant. She blamed it on space travel and association with that abominable Spacing Guild and its secretive ways. But here was a mission that required personal attention from a Bene Gesserit-with-the-Sight. Even the Padishah Emperors Truthsayer could nt evade that responsibility when the duty call came. Damn that Jessica! the Reverend Mother thought. If only she d borne us a girl as she was ordered to do! Jessica stopped three paces from the chair, dropped a small curtsy, a gentle flick of left hand along the line of her skirt. Paul gave the short bow his dancing master had taught--the one used
+[16-paul]
+"when in doubt of anothers station."
+The nuances of Pauls greeting were not lost on the Reverend Mother. She said :
+[25-reverend mother]
+"He s a cautious one, Jessica."
+Jessicas hand went to Pauls shoulder, tightened there. For a heartbeat, fear pulsed through her palm. Then she had herself under control.
+[27-jessicas]
+"Thus he has been taught, Your Reverence."
+What does she fear? Paul wondered. The old woman studied Paul in one gestalten flicker : face oval like Jessicas, but strong bones...hair : the Dukes black-black but with browline of the maternal grandfather who can not be named, and that thin, disdainful nose;shape of directly staring green eyes : like the old Duke, the paternal grandfather who is dead. Now, there was a man who appreciated the power of bravura--even in death, the Reverend Mother thought.
+[34-the old woman]
+"Teaching is one thing,"
+she said,
+[34-the old woman]
+"the basic ingredient is another. We shall see."
+The old eyes darted a hard glance at Jessica.
+[18-jessica]
+"Leave us. I enjoin you to practice the meditation of peace."
+Jessica took her hand from Pauls shoulder.
+[18-jessica]
+"Your Reverence, I--"
+[16-paul]
+"Jessica, you know it must be done."
+Paul looked up at his mother, puzzled. Jessica straightened.
+[18-jessica]
+"Yes...of course."
+Paul looked back at the Reverend Mother. Politeness and his mothers obvious awe of this old woman argued caution. Yet he felt an angry apprehension at the fear he sensed radiating from his mother.
+[18-jessica]
+"Paul..."
+Jessica took a deep breath.
+[18-jessica]
+"...this test you re about to receive...its important to me."
+[16-paul]
+"Test?"
+He looked up at her.
+[18-jessica]
+"Remember that you re a dukes son,"
+Jessica said. She whirled and strode from the room in a dry swishing of skirt. The door closed solidly behind her. Paul faced the old woman, holding anger in check.
+[16-paul]
+"Does one dismiss the Lady Jessica as though she were a serving wench?"
+A smile flicked the corners of the wrinkled old mouth.
+[34-the old woman]
+"The Lady Jessica was my serving wench, lad, for fourteen years at school."
+She nodded.
+[34-the old woman]
+"And a good one, too. Now, you come here!"
+The command whipped out at him. Paul found himself obeying before he could think about it. Using the Voice on me, he thought. He stopped at her gesture, standing beside her knees.
+[34-the old woman]
+"See this?"
+she asked. From the folds of her gown, she lifted a green metal cube about fifteen centimeters on a side. She turned it and Paul saw that one side was open--black and oddly frightening. No light penetrated that open blackness.
+[34-the old woman]
+"Put your right hand in the box,"
+she said. Fear shot through Paul. He started to back away, but the old woman said :
+[34-the old woman]
+"Is this how you obey your mother?"
