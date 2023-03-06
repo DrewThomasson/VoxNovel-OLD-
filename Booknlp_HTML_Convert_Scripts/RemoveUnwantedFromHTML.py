@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 # Read the HTML file
-with open("/content/VoxNovel/Booknlp_HTML_Convert_Scripts/Expected_booknlp_output_Files/alice_in_wonderland/alice_in_wonderland.book.html", "r") as f:
+with open("/content/output/output.book.html", "r") as f:
     html = f.read()
 
 # Parse the HTML using BeautifulSoup
