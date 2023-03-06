@@ -11,5 +11,5 @@ soup = BeautifulSoup(html, 'html.parser')
 all_text = soup.get_text()
 
 # Write the text to a text file
-with open('Extract_gender_from_name_programs/HTML_output.txt', 'w') as file:
+with open('Extract_gender_from_name_programs/HTML_outputPOOP.txt', 'w') as file:
     file.write(all_text)

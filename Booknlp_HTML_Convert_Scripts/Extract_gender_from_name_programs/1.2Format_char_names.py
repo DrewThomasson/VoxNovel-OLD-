@@ -1,6 +1,6 @@
 #this will be used to make it so that theres no repeating names in the output file
 #I also removes any "[" or "]" from the input file being the 1char file
-with open("Extract_gender_from_name_programs/1char_names.txt", "r") as input_file, open("Extract_gender_from_name_programs/2char_names.txt", "w") as output_file:
+with open("/content/1char_names.txt", "r") as input_file, open("/content/2char_names.txt", "w") as output_file:
     lines_seen = set()
     for line in input_file:
         # Remove "[" and "]" symbols from line

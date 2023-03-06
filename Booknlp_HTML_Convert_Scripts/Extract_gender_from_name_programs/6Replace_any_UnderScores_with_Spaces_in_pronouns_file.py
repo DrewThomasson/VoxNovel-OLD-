@@ -3,7 +3,7 @@
 #it also removes any numbers or "-" from the names in the pronouns file
 
 # Open the text file for reading
-with open("Extract_gender_from_name_programs/4output.txt", "r") as file:
+with open("/content/4output.txt", "r") as file:
     # Read the entire contents of the file into a string variable
     text = file.read()
     # Replace all underscores with spaces
@@ -11,13 +11,13 @@ with open("Extract_gender_from_name_programs/4output.txt", "r") as file:
     # Remove all numbers and hyphens
     text = ''.join([i for i in text if not i.isdigit() and i != '-'])
     # Open the text file for writing
-    with open("Extract_gender_from_name_programs/5output.txt", "w") as output_file:
+    with open("/content/5output.txt", "w") as output_file:
         # Write the modified text to the output file
         output_file.write(text)
 
 #itll also run thorugh the char_names file and do the same so then your left with a char fil that doesnt contain any numbers or special characters
 # Open the text file for reading
-with open("Extract_gender_from_name_programs/3char_names.txt", "r") as file:
+with open("/content/3char_names.txt", "r") as file:
     # Read the entire contents of the file into a string variable
     text = file.read()
     # Replace all underscores with spaces
@@ -25,7 +25,7 @@ with open("Extract_gender_from_name_programs/3char_names.txt", "r") as file:
     # Remove all numbers and hyphens
     text = ''.join([i for i in text if not i.isdigit() and i != '-'])
     # Open the text file for writing
-    with open("Extract_gender_from_name_programs/4char_names.txt", "w") as output_file:
+    with open("/content/4char_names.txt", "w") as output_file:
         # Write the modified text to the output file
         output_file.write(text)
 

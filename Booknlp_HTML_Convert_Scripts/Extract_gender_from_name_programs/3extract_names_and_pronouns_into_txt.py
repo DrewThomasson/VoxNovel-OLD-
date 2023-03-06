@@ -21,9 +21,9 @@ with open("Extract_gender_from_name_programs/1output.txt", "r") as file:
 pronouns = ["[he]", "[she]", "[him]", "[her]"]
 
 # Open the text file for reading
-with open("Extract_gender_from_name_programs/1output.txt", "r") as file:
+with open("/content/1output.txt", "r") as file:
     # Open a new text file for writing
-    with open("Extract_gender_from_name_programs/2output.txt", "w") as output_file:
+    with open("/content/2output.txt", "w") as output_file:
         # Loop through each line in the file
         for line in file:
             # Split the line into individual words
@@ -39,12 +39,12 @@ with open("Extract_gender_from_name_programs/1output.txt", "r") as file:
 #this line will also remove any duplicate liens from it so you dont have multiple lines from each character
 
 # Open the text file for reading
-with open("Extract_gender_from_name_programs/2output.txt", "r") as file:
+with open("/content/2output.txt", "r") as file:
     # Read the entire contents of the file into a list of lines
     lines = file.readlines()
     # Remove duplicate lines from the list
     lines = list(set(lines))
     # Open the text file for writing
-    with open("Extract_gender_from_name_programs/2output.txt", "w") as output_file:
+    with open("/content/2output.txt", "w") as output_file:
         # Write the modified lines to the output file
         output_file.writelines(lines)
