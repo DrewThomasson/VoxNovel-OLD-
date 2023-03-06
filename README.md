@@ -1,10 +1,10 @@
 # VoxNovel
-This is an going project of mine that generates audiobooks from a book input, and uses a different actors for each character in the book
+This is a on going project of mine that generates audiobooks from a book input and uses different actors for each character in the book.
 
 The programs used are booknlp and Tortoise TTS
 
 Steps in order to run:
-1. Use bookNLP to extract the needed html metadata from it A link to my google colab for that is below:
+1. Use bookNLP to extract the needed html metadata from your book.txt file. A link to my google colab for BookNLP_EXTRACT_DEMO is below:
 
 2. Run that output "TTS_Input" file  it in the NoxNovel google colab Demo found below:
 
