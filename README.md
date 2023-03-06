@@ -6,7 +6,7 @@ The programs used are booknlp and Tortoise TTS
 Steps in order to run:
 1. Use bookNLP to extract the needed html metadata from your desired book/text file in a txt format. A link to my google colab for BookNLP_EXTRACT_DEMO is below:
 
-2. Run the BookNLP_Demo output "TTS_Input.txt" file  it in the NoxNovel google colab Demo found below
+2. Run the BookNLP_Demo output "TTS_Input.txt" file in the the NoxNovel google colab Demo found below
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 BOOKNLP METADATA DEMO
