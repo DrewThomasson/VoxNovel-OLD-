@@ -25,4 +25,4 @@ def find_line_and_char_gender(name, file_path):
     # If the name is not found, return None
     return "unknown"
 
-print(find_line_and_char_gender("paul" ,"Extract_gender_from_name_programs/5output.txt" ))
+print(find_line_and_char_gender("paul" ,"/content/5output.txt" ))

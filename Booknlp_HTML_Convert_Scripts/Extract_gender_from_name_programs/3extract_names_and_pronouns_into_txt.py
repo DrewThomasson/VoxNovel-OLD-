@@ -5,7 +5,7 @@ pronouns = {"[he]","[He]","[HE]","[him]","[Him]","[HIM]","[His]", "[his]","[HIS]
 
 #this is to try t extract the names from it
 # Open the text file for reading
-with open("Extract_gender_from_name_programs/1output.txt", "r") as file:
+with open("/content/1output.txt", "r") as file:
     # Loop through each line in the file
     for line in file:
         # Split the line into individual words
