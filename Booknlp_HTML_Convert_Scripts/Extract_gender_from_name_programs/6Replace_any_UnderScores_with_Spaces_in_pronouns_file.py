@@ -42,3 +42,21 @@ def find_line_above(name, file_path):
     # If the name is not found, return None
     return None
 print()
+
+
+
+# open the input file in read mode
+with open("/content/5output.txt", "r") as file:
+    
+    # read the content of the file
+    content = file.read()
+
+    # replace ". " with "."
+    content = content.replace(". ", ".")
+
+# open the output file in write mode
+with open("/content/5output.txt", "w") as file:
+
+    # write the modified content to the output file
+    file.write(content)
+
