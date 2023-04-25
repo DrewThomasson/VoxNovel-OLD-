@@ -3,8 +3,11 @@ This is a on going project of mine that generates audiobooks from a book input a
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 DEMO MP3 FILE
 
-Listen to a sample of a audiobook generated with VoxNovel using a small passage from "Harry Potter and the Sorcerer's Stone.":[demo.mp3](https://github.com/DrewThomasson/VoxNovel/blob/main/readme%20files/harryTest1.mp3)
-
+Listen to a sample of a audiobook generated with VoxNovel using a small passage from "Harry Potter and the Sorcerer's Stone.":    <h1>Play MP3 File</h1>
+    <audio controls>
+      <source src="https://www.dropbox.com/s/mbv0eqcm73fzew7/test.mp3?dl=0" type="audio/mp3">
+      Your browser does not support the audio element.
+    </audio>
 
 The programs used are booknlp and Tortoise TTS
 
