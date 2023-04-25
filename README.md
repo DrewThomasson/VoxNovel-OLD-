@@ -1,5 +1,9 @@
 # VoxNovel
 This is a on going project of mine that generates audiobooks from a book input and uses different actors for each character in the book.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+DEMO MP3 FILE
+
+Listen to a sample of a audiobook generated with VoxNovel using a small passage from "Harry Potter and the Sorcerer's Stone.":[Demo MP3 file](https://www.dropbox.com/s/mbv0eqcm73fzew7/test.mp3?dl=0)
 
 The programs used are booknlp and Tortoise TTS
 
