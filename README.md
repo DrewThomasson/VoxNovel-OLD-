@@ -22,5 +22,11 @@ VOXNOVEL TTS DEMO
 A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1iEriu4GiagSTXVua7l_nyqI9OZy4qRKA?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+VOXNOVEL Bark TTS DEMO
+(Higher quality voices but more hallucinations in my opinion than Tortoise/less easy to clone other voices)
+
+A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1L0_kx6l5YoysM6MmRwPzNh78O6bNk21P?usp=sharing
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 Here is a link to the Official Discord server if anyone wants to give feadback or make suggestions 
 https://discord.gg/KbCzxhYP
