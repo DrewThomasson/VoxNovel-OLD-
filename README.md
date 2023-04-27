@@ -28,5 +28,11 @@ VOXNOVEL Bark TTS DEMO
 A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1L0_kx6l5YoysM6MmRwPzNh78O6bNk21P?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+VOXNOVEL Coqui TTS DEMO
+(MUCH MUCH faster but more Siri like voices)
+
+A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1LtetgBb6vLAgV74OUxWx7cNHE0S9YpG6?usp=sharing
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 Here is a link to the Official Discord server if anyone wants to give feadback or make suggestions 
 https://discord.gg/KbCzxhYP
