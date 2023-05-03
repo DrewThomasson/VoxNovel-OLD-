@@ -20,7 +20,7 @@ BOOKNLP METADATA DEMO
 A working google colab demo to extract the metadata from the book needed to assign character values correctly can be found here: https://colab.research.google.com/drive/1IKYjevl-tudqPZe-knIM9AHN2WFTTlS0?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-VOXNOVEL TTS DEMO
+VOXNOVEL Tortoise TTS DEMO
 
 A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1iEriu4GiagSTXVua7l_nyqI9OZy4qRKA?usp=sharing
 
