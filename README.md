@@ -23,4 +23,4 @@ If speed is more important to you, we recommend our Coqui TTS demo, although it 
 
 ## Feedback and Suggestions
 
-If you have any feedback or suggestions, please join our Official Discord server: [VoxNovel Official Discord Server](https://discord.gg/KbCzxhYP). We would love to hear from you!
+If you have any feedback or suggestions, please join our Official Discord server: [VoxNovel Official Discord Server](https://discord.gg/tm8m7y9X). We would love to hear from you!
