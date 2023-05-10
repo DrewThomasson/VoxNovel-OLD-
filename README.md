@@ -1,41 +1,26 @@
 # VoxNovel
-This is a on going project of mine that generates audiobooks from a book input and uses different actors for each character in the book.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-DEMO MP3 FILE
 
-Listen to a sample of a audiobook generated with VoxNovel-Tortoise using a small passage from "Harry Potter and the Sorcerer's Stone.":    [Tortoise Demo MP3 file](https://www.dropbox.com/s/mbv0eqcm73fzew7/test.mp3?dl=0)
+VoxNovel is an ongoing project that generates audiobooks from a book input and utilizes different actors for each character in the book. This allows for a more immersive and engaging listening experience.
 
-Listen to a sample test file for audiobooks generated with VoxNovel using Bark TTS : [BARK Demo MP3 file](https://www.dropbox.com/s/wieaq6td15v1w6t/combined-Bark.wav?dl=0)
+## Demo
 
-The programs used are booknlp and Tortoise TTS
+Listen to a sample of an audiobook generated with VoxNovel-Tortoise using a small passage from "Harry Potter and the Sorcerer's Stone": [Tortoise Demo MP3 file](https://www.dropbox.com/s/mbv0eqcm73fzew7/test.mp3?dl=0).
 
-Steps in order to run:
-1. Use bookNLP to extract the needed html metadata from your desired book/text file in a txt format. A link to my google colab for BookNLP_EXTRACT_DEMO is below:
+Listen to a sample test file for audiobooks generated with VoxNovel using Bark TTS: [BARK Demo MP3 file](https://www.dropbox.com/s/wieaq6td15v1w6t/combined-Bark.wav?dl=0).
 
-2. Run the BookNLP_Demo output "TTS_Input.txt" file in the the NoxNovel google colab Demo found below
+## Getting Started
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-BOOKNLP METADATA DEMO
+To get started with VoxNovel, follow these simple steps:
 
-A working google colab demo to extract the metadata from the book needed to assign character values correctly can be found here: https://colab.research.google.com/drive/1IKYjevl-tudqPZe-knIM9AHN2WFTTlS0?usp=sharing
+1. Use bookNLP to extract the necessary HTML metadata from your desired book/text file in a txt format. A working Google Colab demo for BookNLP_EXTRACT_DEMO can be found here: [BookNLP_EXTRACT_DEMO](https://colab.research.google.com/drive/1IKYjevl-tudqPZe-knIM9AHN2WFTTlS0?usp=sharing).
+2. Run the BookNLP_Demo output "TTS_Input.txt" file in the VoxNovel Google Colab Demo found here: [VoxNovel Google Colab Demo](https://colab.research.google.com/drive/1iEriu4GiagSTXVua7l_nyqI9OZy4qRKA?usp=sharing).
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-VOXNOVEL Tortoise TTS DEMO
+## Additional TTS Demos
 
-A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1iEriu4GiagSTXVua7l_nyqI9OZy4qRKA?usp=sharing
+For higher quality voices, check out our Bark TTS demo (although it may have more hallucinations than Tortoise and be less easy to clone other voices). A working Google Colab demo for Bark TTS can be found here: [Bark TTS Demo](https://colab.research.google.com/drive/1L0_kx6l5YoysM6MmRwPzNh78O6bNk21P?usp=sharing).
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-VOXNOVEL Bark TTS DEMO
-(Higher quality voices but more hallucinations in my opinion than Tortoise/less easy to clone other voices)
+If speed is more important to you, we recommend our Coqui TTS demo, although it has more Siri-like voices. A working Google Colab demo for Coqui TTS can be found here: [Coqui TTS Demo](https://colab.research.google.com/drive/1LtetgBb6vLAgV74OUxWx7cNHE0S9YpG6?usp=sharing).
 
-A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1L0_kx6l5YoysM6MmRwPzNh78O6bNk21P?usp=sharing
+## Feedback and Suggestions
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
-VOXNOVEL Coqui TTS DEMO
-(MUCH MUCH faster but more Siri like voices)
-
-A working google colab demo of the generate audiobook can be found at this link: https://colab.research.google.com/drive/1LtetgBb6vLAgV74OUxWx7cNHE0S9YpG6?usp=sharing
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-Here is a link to the Official Discord server if anyone wants to give feadback or make suggestions 
-https://discord.gg/KbCzxhYP
+If you have any feedback or suggestions, please join our Official Discord server: [VoxNovel Official Discord Server](https://discord.gg/KbCzxhYP). We would love to hear from you!
