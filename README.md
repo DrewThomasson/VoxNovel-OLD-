@@ -13,7 +13,7 @@ Listen to a sample test file for audiobooks generated with VoxNovel using Bark T
 To get started with VoxNovel, follow these simple steps:
 
 1. Use bookNLP to extract the necessary HTML metadata from your desired book/text file in a txt format. A working Google Colab demo for BookNLP_EXTRACT_DEMO can be found here: [BookNLP_EXTRACT_DEMO](https://colab.research.google.com/drive/1IKYjevl-tudqPZe-knIM9AHN2WFTTlS0?usp=sharing).
-2. Run the BookNLP_Demo output "TTS_Input.txt" file in the VoxNovel Google Colab Demo found here: [VoxNovel Google Colab Demo](https://colab.research.google.com/drive/1iEriu4GiagSTXVua7l_nyqI9OZy4qRKA?usp=sharing).
+2. Run the BookNLP_Demo output "TTS_Input.txt" file in the VoxNovel Google Colab Demo found here: [VoxNovel tortoise Google Colab Demo](https://colab.research.google.com/drive/1iEriu4GiagSTXVua7l_nyqI9OZy4qRKA?usp=sharing).
 
 ## Additional TTS Demos
 
