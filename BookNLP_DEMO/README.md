@@ -14,3 +14,9 @@ https://github.com/DrewThomasson/VoxNovel-OLD-/assets/126999465/5e3c5501-4c87-46
 
 https://github.com/DrewThomasson/VoxNovel-OLD-/assets/126999465/f4e57afe-53df-485c-81ff-65d7dcf29cb5
 
+
+
+
+
+https://github.com/DrewThomasson/VoxNovel-OLD-/assets/126999465/44f38bfa-9622-43ec-8d06-27f4d7b0a25b
+
